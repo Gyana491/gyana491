@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gyana.ranjan](https://medium.com/@gyana.ranjan)
 
-- 📫 How to reach me **gyanaranjanmohanta491@gmail.com**
+- 📫 How to reach me **gyanaranjanmohanta2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

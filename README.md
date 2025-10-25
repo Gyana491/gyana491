@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gyan</h1>
-<h3 align="left">I love building applications that solve problems</h3>
+<h3 align="left">Building useful stuff I’d use myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gyana.ranjan](https://medium.com/@gyana.ranjan)
 
-- 📫 How to reach me **gyanaranjanmohanta2004@gmail.com**
+- 📫 How to reach me **hello@gyana.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,11 +12,7 @@ I’m experienced in building full stack applications using **Typescript**,**Pyt
 
 Hackathon is my way of learning & adopting new skills. 
 
-
-All of my projects are available at [https://github.com/Gyana491?tab=repositories](https://github.com/Gyana491?tab=repositories)
-
-
-How to reach me **hello@gyana.dev**
+Just say me a "Hello",  **hello@gyana.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

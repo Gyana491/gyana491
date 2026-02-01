@@ -8,7 +8,9 @@ Currently building useful AI Powered tools for designers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 
 
-- 🌱 I’m experienced in building full stack applications using **Typescript**, **NextJS**, **Applied AI**, **RAG** & **AI Agents**
+- I’m experienced in building full stack applications using **Typescript**,**Python**, **NextJS**, **expressjs**, **fastapi**, **postgresql** and **Applied AI**, **RAG** & **AI Agents** using langchain.
+
+Hackathon is my way of learning &adopting new skills. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gyana491?tab=repositories](https://github.com/Gyana491?tab=repositories)
 

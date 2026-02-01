@@ -3,7 +3,7 @@
 
 I build tools to solve my own problems, then share them with the world. 
 
-Currently useful AI Powered tools for designers
+Currently building useful AI Powered tools for designers
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 

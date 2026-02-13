@@ -10,7 +10,7 @@ I’m experienced in building full stack applications using **Typescript**,**Pyt
 
 Hackathon is my way of learning & adopting new skills. 
 
-Just say me a "Hello",  **hello@gyana.dev**
+Email:  **hello@gyana.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

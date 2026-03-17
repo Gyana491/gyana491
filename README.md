@@ -4,13 +4,12 @@
 
 I build tools to solve my own problems, then share them with the world. 
 
-Currently building useful AI Powered tools for designers
-
-I’m experienced in building full stack applications using **Typescript**,**Python**, **NextJS**, **expressjs**, **fastapi**, **postgresql** and **Applied AI**, **RAG** & **AI Agents** using langchain.and a lot of open source libraries.
+I Also build useful AI Powered tools for designers.
+> @Vectorstudio.app
 
 Hackathon is my way of learning & adopting new skills. 
 
-Email:  **hello@gyana.dev**
+> Email: **hello@gyana.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

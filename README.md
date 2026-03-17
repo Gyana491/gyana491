@@ -5,7 +5,7 @@
 I build tools to solve my own problems, then share them with the world. 
 
 I Also build useful AI Powered tools for designers.
-> @Vectorstudio.app
+> @<a href="https://linkedin.com/in/mr-gyan491" target="blank">VectorStudio.app</a> 
 
 Hackathon is my way of learning & adopting new skills. 
 

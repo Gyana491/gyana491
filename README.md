@@ -2,8 +2,6 @@
 <h3 align="left">I love to Build Useful stuff.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 
-I build tools to solve my own problems, then share them with the world. 
-
 I Also build useful AI Powered tools for designers.
 > @<a href="https://vectorstudio.app" target="blank">VectorStudio.app</a> 
 

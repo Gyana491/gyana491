@@ -2,9 +2,6 @@
 <h3 align="left">I love to Build Useful stuff.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 
-
-Hackathon is my way of learning & adopting new skills. 
-
 > Email: **hello@gyana.dev**
 
 <h3 align="left">Connect with me:</h3>

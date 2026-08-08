@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Gyan</h1>
-<h3 align="left">I love to Build Useful stuff.</h3>
+# Hi 👋, I'm Gyan
+### I love to Build Useful stuff.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 
 > Email: **hello@gyana.dev**
@@ -8,3 +8,22 @@
 <p align="left">
 <a href="https://linkedin.com/in/mr-gyan491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-gyan491" height="30" width="40" /></a>
 </p>
+
+## Projects
+
+- [AskMySite.ai](https://askmysite.ai) - Al SDR That Qualify, Engage & Book Meetings 24/7 on Your Website
+- [OpenCanvas](https://opencanvasai.com) - Open-source alternative to Higgsfield, Figma Weave and ComfyUI.
+- [Gloww](https://apps.apple.com/in/app/gloww-ai-photo-enhancer/id6762304752) - AI photo enhancer(DSLR Quality) for iOS.
+- [Swapify](https://github.com/Gyana491/swapify) - P2P Marketplace to Buy/Sell Within Community.
+- [Email Validator](https://github.com/Gyana491/email-validator) - Verify the emails before it bounces back
+- [ContentFlow](https://github.com/Gyana491/contentflow-v3) - Content Scheduler and Viral Post inspiration for LinkedIn, 
+
+## Adobe Express add-ons/integrations
+
+- [MermaidFlow](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w0m896j83) - Create Mermaid.js diagrams directly inside Adobe Express.
+- [Voice Room Addon](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wm3jlhl53) - Real-time voice collaboration inside Adobe Express.
+- [Design to Code](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w0kk69in2) - Convert Adobe Express designs into code.
+- [Reverse Video](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wj44i6j08) - Reverse videos directly inside Adobe Express.
+- ProductSpin360 (In Progress) - Create 360° product videos for ecommerce stores to showcase products better and strengthen their online presence.
+
+

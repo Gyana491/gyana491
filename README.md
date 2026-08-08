@@ -8,54 +8,24 @@
 
 <p align="left">
 
-<a href="https://github.com/Gyana491" target="_blank">
-  <img
-    align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg"
-    alt="GitHub"
-    height="30"
-    width="40"
-  />
+<a href="https://github.com/Gyana491" target="_blank" title="GitHub">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="45" alt="GitHub" />
 </a>
 
-<a href="https://www.linkedin.com/in/mr-gyan491/" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    height="30"
-    width="40"
-  />
+<a href="https://www.linkedin.com/in/mr-gyan491/" target="_blank" title="LinkedIn">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn" />
 </a>
 
-<a href="https://x.com/Gyana_491" target="_blank">
-  <img
-    align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg"
-    alt="X"
-    height="30"
-    width="40"
-  />
+<a href="https://x.com/Gyana_491" target="_blank" title="X">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark" height="45" alt="X" />
 </a>
 
-<a href="https://devpost.com/Gyana491" target="_blank">
-  <img
-    align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/devpost.svg"
-    alt="Devpost"
-    height="30"
-    width="40"
-  />
+<a href="mailto:hello@gyana.dev" title="Email">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="45" alt="Email" />
 </a>
 
-<a href="mailto:hello@gyana.dev">
-  <img
-    align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg"
-    alt="Email"
-    height="30"
-    width="40"
-  />
+<a href="https://gyana.dev" target="_blank" title="Website">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome&theme=dark" height="45" alt="Website" />
 </a>
 
 </p>

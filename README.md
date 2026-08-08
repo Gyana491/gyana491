@@ -11,17 +11,18 @@ I love building useful stuff. I learned by shipping, hacking around the internet
 > Email: **hello@gyana.dev**
 
 
-## Projects
+## Active Projects
 
 - [AskMySite.ai](https://askmysite.ai) - Al SDR That Qualify, Engage & Book Meetings 24/7 on Your Website
 - [Gloww](https://apps.apple.com/in/app/gloww-ai-photo-enhancer/id6762304752) - AI photo enhancer(DSLR Quality) for iOS.
-- [OpenCanvas](https://opencanvasai.com) - Open-source alternative to Higgsfield, Figma Weave and ComfyUI.
+
 
 ## Toy Projects
 - [Swapify](https://github.com/Gyana491/swapify) - P2P Marketplace to Buy/Sell Within Community.
 - [Email Validator](https://github.com/Gyana491/email-validator) - Verify the emails before it bounces back
 - [ContentFlow](https://github.com/Gyana491/contentflow-v3) - Content Scheduler and Viral Post inspiration for LinkedIn
 - [Ecoloop](https://github.com/Gyana491/ecoloop) - Autonomous supervisory HVAC control for EnergyPlus using AI Agent
+- [OpenCanvas](https://opencanvasai.com) - Open-source alternative to Higgsfield, Figma Weave and ComfyUI.
 
 
 ## Adobe Express add-ons/integrations

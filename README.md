@@ -4,9 +4,60 @@
 
 > Email: **hello@gyana.dev**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/mr-gyan491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-gyan491" height="30" width="40" /></a>
+
+<a href="https://github.com/Gyana491" target="_blank">
+  <img
+    align="center"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg"
+    alt="GitHub"
+    height="30"
+    width="40"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/mr-gyan491/" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="LinkedIn"
+    height="30"
+    width="40"
+  />
+</a>
+
+<a href="https://x.com/Gyana_491" target="_blank">
+  <img
+    align="center"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg"
+    alt="X"
+    height="30"
+    width="40"
+  />
+</a>
+
+<a href="https://devpost.com/Gyana491" target="_blank">
+  <img
+    align="center"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/devpost.svg"
+    alt="Devpost"
+    height="30"
+    width="40"
+  />
+</a>
+
+<a href="mailto:hello@gyana.dev">
+  <img
+    align="center"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg"
+    alt="Email"
+    height="30"
+    width="40"
+  />
+</a>
+
 </p>
 
 ## Projects

@@ -11,14 +11,14 @@ I love building useful stuff. I learned by shipping, hacking around the internet
 > Email: **hello@gyana.dev**
 
 
-## Active Projects
+## Currently Building
 
 - [AskMySite.ai](https://askmysite.ai) - Al SDR That Qualify, Engage & Book Meetings 24/7 on Your Website
 - [Gloww](https://apps.apple.com/in/app/gloww-ai-photo-enhancer/id6762304752) - AI photo enhancer(DSLR Quality) for iOS.
 - Applink.bio (In Progress) - Unified smart link for iOS and Android apps, with automatic redirects and analytics.
 
 
-## Toy Projects
+## Projects
 - [Swapify](https://github.com/Gyana491/swapify) - P2P Marketplace to Buy/Sell Within Community.
 - [Email Validator](https://github.com/Gyana491/email-validator) - Verify the emails before it bounces back
 - [ContentFlow](https://github.com/Gyana491/contentflow-v3) - Content Scheduler and Viral Post inspiration for LinkedIn

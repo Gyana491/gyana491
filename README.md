@@ -2,15 +2,13 @@
 ### I love to Build Useful stuff.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 
-> Email: **hello@gyana.dev**
-
-<h3 align="left">Connect with me</h3>
 
 ## Connect with me
 
 [Website](https://gyana.dev) · [GitHub](https://github.com/Gyana491) · [LinkedIn](https://www.linkedin.com/in/mr-gyan491/) · [X](https://x.com/Gyana_491) · [Devpost](https://devpost.com/Gyana491) · [Email](mailto:hello@gyana.dev)
 
-</p>
+> Email: **hello@gyana.dev**
+
 
 ## Projects
 

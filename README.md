@@ -5,7 +5,7 @@
 
 ## Connect with me
 
-[Website](https://gyana.dev) · [GitHub](https://github.com/Gyana491) · [LinkedIn](https://www.linkedin.com/in/mr-gyan491/) · [X](https://x.com/Gyana_491) · [Devpost](https://devpost.com/Gyana491) · [Email](mailto:hello@gyana.dev)
+[Website](https://gyana.dev) · [GitHub](https://github.com/Gyana491) · [LinkedIn](https://www.linkedin.com/in/mr-gyan491/) · [X](https://x.com/Gyana_491) · [Devpost](https://devpost.com/Gyana491) 
 
 > Email: **hello@gyana.dev**
 

@@ -5,7 +5,7 @@
 
 ## Connect with me
 
-[Website](https://gyana.dev) · [GitHub](https://github.com/Gyana491) · [LinkedIn](https://www.linkedin.com/in/mr-gyan491/) · [X](https://x.com/Gyana_491) · [Devpost](https://devpost.com/Gyana491) 
+[Website](https://gyana.dev) · [GitHub](https://github.com/Gyana491) · [LinkedIn](https://www.linkedin.com/in/mr-gyan491/) · [X](https://x.com/Gyanatwt) · [Devpost](https://devpost.com/Gyana491) 
 
 > Email: **hello@gyana.dev**
 
@@ -13,11 +13,15 @@
 ## Projects
 
 - [AskMySite.ai](https://askmysite.ai) - Al SDR That Qualify, Engage & Book Meetings 24/7 on Your Website
-- [OpenCanvas](https://opencanvasai.com) - Open-source alternative to Higgsfield, Figma Weave and ComfyUI.
 - [Gloww](https://apps.apple.com/in/app/gloww-ai-photo-enhancer/id6762304752) - AI photo enhancer(DSLR Quality) for iOS.
+- [OpenCanvas](https://opencanvasai.com) - Open-source alternative to Higgsfield, Figma Weave and ComfyUI.
+
+## Toy Projects
 - [Swapify](https://github.com/Gyana491/swapify) - P2P Marketplace to Buy/Sell Within Community.
 - [Email Validator](https://github.com/Gyana491/email-validator) - Verify the emails before it bounces back
-- [ContentFlow](https://github.com/Gyana491/contentflow-v3) - Content Scheduler and Viral Post inspiration for LinkedIn, 
+- [ContentFlow](https://github.com/Gyana491/contentflow-v3) - Content Scheduler and Viral Post inspiration for LinkedIn
+- [Ecoloop](https://github.com/Gyana491/ecoloop) - Autonomous supervisory HVAC control for EnergyPlus using AI Agent
+
 
 ## Adobe Express add-ons/integrations
 

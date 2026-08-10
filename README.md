@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gyan
-I love building useful stuff. I learned by shipping, hacking around the internet, and figuring things out as I go. Now I’m deep in AI and software, building things I’d actually want to use.
+I love building useful stuff. I learned by shipping, hacking around the internet, and figuring things out as I go. Now I’m deep in AI and software, building things I’d actually want to be existed.
 
 Focousing More on Go-to-Market & growth these days.
 

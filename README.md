@@ -1,7 +1,9 @@
 # Hi 👋, I'm Gyan
 I love building useful stuff. I learned by shipping, hacking around the internet, and figuring things out as I go. Now I’m deep in AI and software, building things I’d actually want to be existed.
 
-Focousing More on Go-to-Market & growth these days.
+Focousing More on Go-to-Market & growth these days. 
+
+Love solving problems at the intersection of technology and business.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 

@@ -1,5 +1,6 @@
 # Hi 👋, I'm Gyan
 I love solving problems at the intersection of technology and business. 
+
 I learned by shipping, hacking around the internet, and figuring things out as I go.
 
 Now I’m deep into AI and software, building things I’d actually want to exist.

@@ -32,7 +32,6 @@ These days, I’m focusing more on go-to-market and growth, and I love solving p
 
 
 ## Adobe Express add-ons/integrations
-Supported By Adobe Fund For Design
 
 - [MermaidFlow](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w0m896j83) - Create Mermaid.js diagrams directly inside Adobe Express.
 - [Voice Room Addon](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wm3jlhl53) - Real-time voice collaboration inside Adobe Express.

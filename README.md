@@ -1,10 +1,10 @@
 # Hi 👋, I'm Gyan
 I love building useful stuff. I learned by shipping, building Projects, and figuring things out as I go.
+I love solving problems at the intersection of technology and business.
 
-Now I’m deep into AI and software, building things I’d actually want to exist.
+Now I’m deep into AI Agents and software, building things I’d actually want to exist.
 
-These days, I’m focusing more on go-to-market and growth, and I love solving problems at the intersection of technology and business.
-
+These days, I’m focusing more on [askmysite.ai](askmysite.ai) . 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 

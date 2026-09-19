@@ -23,11 +23,8 @@ These days, I’m focusing more on [askmysite.ai](askmysite.ai) .
 - Applink.bio (In Progress) - Unified smart redirect link for iOS and Android apps, with automatic redirects and analytics.
 
 
-## Projects
-- [Swapify](https://github.com/Gyana491/swapify) - P2P Marketplace to Buy/Sell Within Community.
+## Useful Projects
 - [Email Validator](https://github.com/Gyana491/email-validator) - Verify the emails before it bounces back
-- [ContentFlow](https://github.com/Gyana491/contentflow-v3) - Content Scheduler and Viral Post inspiration for LinkedIn
-- [Ecoloop](https://github.com/Gyana491/ecoloop) - Autonomous supervisory HVAC control for EnergyPlus using AI Agent
 - [OpenCanvas](https://opencanvasai.com) - Open-source alternative to Higgsfield, Figma Weave and ComfyUI.
 
 

@@ -22,8 +22,9 @@ These days, I’m focusing more on [askmysite.ai](askmysite.ai) .
 - [Gloww](https://apps.apple.com/in/app/gloww-ai-photo-enhancer/id6762304752) - AI photo enhancer(DSLR Quality) for iOS. Restore old Photo, Fix Blurry Photo
 - Applink.bio (In Progress) - Unified smart redirect link for iOS and Android apps, with automatic redirects and analytics.
 
-
+I built a lot of projects, but people found these projects useful
 ## Useful Projects
+
 - [Email Validator](https://github.com/Gyana491/email-validator) - Verify the emails before it bounces back
 - [OpenCanvas](https://opencanvasai.com) - Open-source alternative to Higgsfield, Figma Weave and ComfyUI.
 

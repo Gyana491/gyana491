@@ -2,7 +2,7 @@
 I love building useful stuff. I learned by shipping, building Projects, and figuring things out as I go.
 I love solving problems at the intersection of technology and business.
 
-Now I’m deep into AI Agents and software, building the platform to build the best customer facing agents, for delightful customer service @askmysite.ai
+Now I’m deep into AI Agents and software, enabling businesses to build the best customer facing agents, for delightful customer service @askmysite.ai
 
 These days, I’m focusing more on [askmysite.ai](askmysite.ai) . 
 

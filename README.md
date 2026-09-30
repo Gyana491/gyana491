@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gyan
-I love building useful stuff. I learned by shipping, building Projects, and figuring things out as I go.
+I love building useful stuff. I learnt by shipping, building Projects end-to-end, and figuring things out as I go.
 I love solving problems at the intersection of technology and business.
 
 Now I’m deep into AI Agents and software, enabling businesses to build the best customer facing agents, to provide a delightful service to customers.

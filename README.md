@@ -4,7 +4,7 @@ I love solving problems at the intersection of technology and business.
 
 Now I’m deep into AI Agents and software, enabling businesses to build the best customer facing agents, to provide a delightful service to customers.
 
-These days, I’m focusing more on [askmysite.ai](askmysite.ai) . 
+These days, I’m focusing more on [askmysite.ai](https://askmysite.ai) . 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyana491&label=Profile%20views&color=0e75b6&style=flat" alt="gyana491" /> </p>
 
